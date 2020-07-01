@@ -1,6 +1,6 @@
 PRODUCTO,SIM-ALT,MED-ALT,COM-ALT,ALT-MEJ,ALT-BUE,ALT-MAL,MED-MEJ,MED-BUE,MED-MAL,BAJ-MEJ,BAJ-BUE,BAJ-MAL
-oracle mapeo or,1,1,1,1,0,0,1,1,0,1,1,0
+oracle_mapeo_or,1,1,1,1,0,0,1,1,0,1,1,0
 tamino,1,1,1,1,0,0,1,0,0,1,0,0
 dbxml,1,1,1,0,1,0,0,1,0,1,1,0
 xpsql,1,1,1,0,1,1,0,0,1,0,1,1
-oracle clob,1,1,1,0,0,1,0,0,1,0,0,1
+oracle_clob,1,1,1,0,0,1,0,0,1,0,0,1

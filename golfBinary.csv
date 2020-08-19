@@ -1,0 +1,15 @@
+"Outlook","Temp","Humidity","Windy","Play Golf","prediction"
+"Rainy","Hot","High","FALSE","No",0
+"Rainy","Hot","High","TRUE","No",0
+"Overcast","Hot","High","FALSE","Yes",1
+"Sunny","Mild","High","FALSE","Yes",1
+"Sunny","Cool","Normal","FALSE","Yes",1
+"Sunny","Cool","Normal","TRUE","No",0
+"Overcast","Cool","Normal","TRUE","Yes",1
+"Rainy","Mild","High","FALSE","No",0
+"Rainy","Cool","Normal","FALSE","Yes",1
+"Sunny","Mild","Normal","FALSE","Yes",1
+"Rainy","Mild","Normal","TRUE","Yes",1
+"Overcast","Mild","High","TRUE","Yes",1
+"Overcast","Hot","Normal","FALSE","Yes",1
+"Sunny","Mild","High","TRUE","No",0
